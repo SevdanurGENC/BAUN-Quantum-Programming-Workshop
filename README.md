@@ -36,4 +36,41 @@ Quantum Technologies and Programming Workshop: From Fundamentals to Practice
 - **Cirq** (Google tabanlı framework – Python ile uyumlu)
 - **PennyLane** (Kuantum yapay zekâ uygulamaları için – opsiyonel)
 - **TensorFlow Quantum** (QML atölyesi için örnek uygulamalar)
-   
+
+---
+
+## 📅 Program Schedule (3-Day Draft)
+
+### 🗓️ Day 1: Introduction to Quantum Technologies and Basic Concepts
+
+| Time            | Topic / Activity |
+|-----------------|------------------|
+| 10:00 – 11:00   | Session 1: Overview of Quantum Technologies (Application Areas) |
+| 11:15 – 12:15   | Session 2: Fundamentals of Quantum Computing (Qubit, Superposition, Entanglement) |
+| 13:30 – 15:00   | Hands-on Session: Building Our First Quantum Circuit with Qiskit |
+| 15:15 – 16:30   | Mini Workshop: Quantum Circuit Simulation (Qiskit Visualizer) |
+
+### 🗓️ Day 2: Quantum Programming and Algorithms
+
+| Time            | Topic / Activity |
+|-----------------|------------------|
+| 10:00 – 11:00   | Session 3: Quantum Algorithms – Grover, Shor, and Basics |
+| 11:15 – 12:15   | Hands-on Session: Implementing Grover's Algorithm with Qiskit |
+| 13:30 – 15:00   | Session 4: Quantum Programming Ecosystems: Comparison of Qiskit, Cirq, and PennyLane |
+| 15:15 – 16:30   | Workshop: Developing a Basic Quantum Circuit with Cirq |
+
+### 🗓️ Day 3: Quantum Machine Learning Applications
+
+| Time            | Topic / Activity |
+|-----------------|------------------|
+| 10:00 – 11:00   | Session 5: Introduction to Quantum Machine Learning (QML) |
+| 11:15 – 12:15   | Hands-on Session: How to Encode Quantum Data with Qubits? (Feature Map) |
+| 13:30 – 15:00   | Workshop: Hybrid Quantum-Classical Classifier (QSVC or QCNN) |
+| 15:15 – 16:30   | Project Presentations (Student Groups) and Evaluation |
+
+## 🧰 Tools / Libraries to Be Used
+
+- **Qiskit** (IBM Quantum Lab – cloud-based application)
+- **Cirq** (Google-based framework – Python compatible)
+- **PennyLane** (for quantum AI applications – optional)
+- **TensorFlow Quantum** (sample applications for the QML workshop)
