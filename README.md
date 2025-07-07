@@ -1,4 +1,4 @@
-# BAUN-Quantum-Programming-Workshop
+# BAUN-CENG-Quantum-Programming-Workshop
 Quantum Technologies and Programming Workshop: From Fundamentals to Practice
  
 ## 📅 Program Akışı (3 Günlük Taslak)
