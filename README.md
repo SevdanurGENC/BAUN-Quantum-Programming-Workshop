@@ -15,9 +15,7 @@ Quantum Technologies and Programming Workshop: From Fundamentals to Practice
 | 13:30 – 15:00   | Uygulamalı Oturum: Qiskit ile İlk Kuantum Devremizi Oluşturuyoruz |
 | 15:00 – 15:15   | Kahve Arası |
 | 15:15 – 16:30   | Mini Atölye: Kuantum Devre Simülasyonu (Qiskit Visualizer) |
-| 16:30 – 17:00   | Gün Sonu Değerlendirme ve Serbest Tartışma |
-
----
+| 16:30 – 17:00   | Gün Sonu Değerlendirme ve Serbest Tartışma | 
 
 ### 🗓️ 2. Gün: Kuantum Programlama ve Algoritmalar
 
@@ -31,9 +29,7 @@ Quantum Technologies and Programming Workshop: From Fundamentals to Practice
 | 14:30 – 15:45   | Workshop: Cirq ile Temel Kuantum Devresi Geliştirme |
 | 15:45 – 16:00   | Kahve Arası |
 | 16:00 – 17:00   | Katılımcılarla Atölye Sunumları (Grup Tartışmaları ve Çözüm Önerileri) |
-
----
-
+ 
 ### 🗓️ 3. Gün: Kuantum Makine Öğrenmesi Uygulamaları
 
 | Saat            | Konu / Etkinlik |
@@ -45,9 +41,7 @@ Quantum Technologies and Programming Workshop: From Fundamentals to Practice
 | 13:30 – 15:00   | Workshop: Hibrit Kuantum-Klasik Sınıflandırıcı (QSVC veya QCNN) |
 | 15:00 – 15:15   | Kahve Arası |
 | 15:15 – 16:30   | Proje Sunumları (Kısa Öğrenci Grupları) ve Değerlendirme |
-| 16:30 – 17:00   | Sertifika Töreni ve Kapanış |
-
----
+| 16:30 – 17:00   | Sertifika Töreni ve Kapanış | 
 
 ## 🧰 Kullanılacak Araçlar / Kütüphaneler
 
@@ -55,9 +49,4 @@ Quantum Technologies and Programming Workshop: From Fundamentals to Practice
 - **Cirq** (Google tabanlı framework – Python ile uyumlu)
 - **PennyLane** (Kuantum yapay zekâ uygulamaları için – opsiyonel)
 - **TensorFlow Quantum** (QML atölyesi için örnek uygulamalar)
- 
-> 📌 Daha fazla bilgi veya katkı için bu repo üzerinden **issue açabilirsiniz** ya da doğrudan iletişime geçebilirsiniz.
-```
-
-Eğer istersen buna ayrıca bir **bağlantılar bölümü**, katkıda bulunanlar listesi ya da lisans bilgisi de ekleyebilirim. 🧷
-Söyle, ekleyeyim mi?
+   
